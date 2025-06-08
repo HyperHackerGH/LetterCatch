@@ -122,7 +122,7 @@ for (let i of alphabet) {
 
         if (score == 0) {
             t.text = "You Lose"
-            t.pos.x = width() / 2 - 160
+            t.pos.x = width() / 2 - 150
             lose = true
         }
 
